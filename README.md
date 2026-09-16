@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer · Python Developer · Odoo ERP Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Building+ERP+solutions+with+Odoo+%26+Python;Backend+engineering+with+Java+%2F+Hibernate;Clean+code%2C+data-driven+tools%2C+automation;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Building+ERP+solutions+with+Odoo+%26+Python;Backend+engineering;Clean+code%2C+data-driven+tools%2C+automation;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -63,19 +63,6 @@
 | [**projetHibernate**](https://github.com/TitiRazak/projetHibernate) | Java application built around Hibernate/JPA for object-relational persistence. | Java, Hibernate |
 | [**Linear-Programming-Visualization**](https://github.com/TitiRazak/Linear-Programming-Visualization) | Visualization tool for linear programming / optimization problems. | Python |
 | [**Patient-Management**](https://github.com/TitiRazak/Patient-Management) | Patient management system for handling records and day-to-day clinical workflows. | Python |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TitiRazak&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitiRazak&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TitiRazak&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
